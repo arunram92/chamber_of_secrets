@@ -1,0 +1,52 @@
+body
+{
+background-image:url("../images/leader.jpg");
+background-attachment: scroll;
+color:white;
+}
+
+div.message
+{
+position:relative;
+left:350px;
+font-family:verdana;
+}
+
+div.imagetable {
+	position:absolute;
+	left:400px;
+	top:100px;
+	
+}
+div.imagetable table
+{//background-image:url("../images/paper.jpg");
+font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:white;
+	border-width: 5px;
+	border-color: black;
+	border-collapse: collapse;
+
+}
+div.imagetable th {
+	font-size:20px;
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: black;
+}
+div.imagetable td {
+	font-size:15px;
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	
+}
+
+div.welcome
+{
+color:white;
+position:relative;
+left:600px;
+}
+

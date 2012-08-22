@@ -1,0 +1,12 @@
+level1-->stare.php
+level2-->google.php
+level3-->value.php
+level4-->poster.php
+level5-->tounge.php
+
+
+changes during each level
+
+1.that level(2 times--> welcome,level check)
+2.login.php(new if case)
+3.answer.php(new if case-->many places and previous level if case also(link if correct))
